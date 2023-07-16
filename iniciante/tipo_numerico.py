@@ -1,0 +1,8 @@
+""" 
+tipo boleano
+
+
+Negação (not):
+ """
+
+
